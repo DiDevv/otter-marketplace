@@ -1,0 +1,17 @@
+{
+    "name":"otter-marketplace",
+    "description":"Plugins to optmize mine job flow",
+    "owner": {
+        "name":"Diogo Dias",
+        "url":"https://www.linkedin.com/in/didias/"
+    },
+    "plugins": [
+        {
+            "name":"pbp",
+            "source":"./plugins/pbp",
+            "description":"Skill to teatch best practices to programming Agents"
+        }
+    ]
+    
+
+}
