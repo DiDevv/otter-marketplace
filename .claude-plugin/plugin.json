@@ -1,0 +1,19 @@
+{
+  "name": "otter-skills",
+  "version": "1.0",
+  "description": "Skills for engineering",
+  "author": {
+    "name": "Diogo Dias",
+    "url":"https://www.linkedin.com/in/didias/"
+  },
+  "homepage": "https://www.linkedin.com/in/didias/",
+  "repository": "https://github.com/DiDevv/otter-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills"
+  ],
+  "skills": [
+    "./skills/development/code-best-practices"
+  ]
+}

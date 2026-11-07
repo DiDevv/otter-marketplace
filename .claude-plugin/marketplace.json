@@ -7,9 +7,14 @@
     },
     "plugins": [
         {
-            "name":"pbp",
-            "source":"./plugins/pbp",
-            "description":"Skill to teatch best practices to programming Agents"
+            "name":"otter-skills",
+            "source":"./",
+            "description":"Skills for engineering",
+            "category": "engineering",
+            "keywords": [
+                "engineering",
+                "skills"
+            ]
         }
     ]
     
