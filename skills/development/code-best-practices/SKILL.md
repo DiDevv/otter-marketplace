@@ -44,7 +44,7 @@ Test the code in various scenarios, including normal, edge, and error cases.
 
 Every time the code is ready:
 
-1. Launch the adversary agent defined in `adversary-agent/AGENT.md`. Give it **no context** about how or why the code was written, so it can search for problems and vulnerabilities with fresh eyes.
+1. Launch the adversary agent defined in `code-best-practices-adversary-agent/AGENT.md`. Give it **no context** about how or why the code was written, so it can search for problems and vulnerabilities with fresh eyes.
 2. Fix every finding it reports.
 3. Run the adversary agent again. Repeat until it reports no new findings.
 
